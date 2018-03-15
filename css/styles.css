@@ -1,0 +1,13 @@
+h2{
+  color:blue;
+  font-family: fantasy;
+}
+p.tropical{
+  color: red;
+  font-family: fantasy;
+}
+p.popular{
+  font-style: italic;
+  color: green
+  font-family:cursive;
+}
